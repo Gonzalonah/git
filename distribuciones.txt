@@ -5,3 +5,5 @@ Red Hat
 CentOS
 Fedora
 |Manjaro
+Alpine
+Archlinux
